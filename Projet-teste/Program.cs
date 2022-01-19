@@ -13,6 +13,10 @@ namespace Projet_teste
             Console.WriteLine("Ola mundo");
             Console.WriteLine("Kinka é foda");
             Console.ReadLine();
+            for(int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
