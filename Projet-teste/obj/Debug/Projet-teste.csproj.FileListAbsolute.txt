@@ -1,0 +1,8 @@
+C:\Users\sanfi\Desktop\Aulas que estou fazendo\C# COMPLETO Nelio\Seção 6\Exercicios\Projet-teste\Projet-teste\bin\Debug\Projet-teste.exe.config
+C:\Users\sanfi\Desktop\Aulas que estou fazendo\C# COMPLETO Nelio\Seção 6\Exercicios\Projet-teste\Projet-teste\bin\Debug\Projet-teste.exe
+C:\Users\sanfi\Desktop\Aulas que estou fazendo\C# COMPLETO Nelio\Seção 6\Exercicios\Projet-teste\Projet-teste\bin\Debug\Projet-teste.pdb
+C:\Users\sanfi\Desktop\Aulas que estou fazendo\C# COMPLETO Nelio\Seção 6\Exercicios\Projet-teste\Projet-teste\obj\Debug\Projet-teste.csproj.AssemblyReference.cache
+C:\Users\sanfi\Desktop\Aulas que estou fazendo\C# COMPLETO Nelio\Seção 6\Exercicios\Projet-teste\Projet-teste\obj\Debug\Projet-teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanfi\Desktop\Aulas que estou fazendo\C# COMPLETO Nelio\Seção 6\Exercicios\Projet-teste\Projet-teste\obj\Debug\Projet-teste.csproj.CoreCompileInputs.cache
+C:\Users\sanfi\Desktop\Aulas que estou fazendo\C# COMPLETO Nelio\Seção 6\Exercicios\Projet-teste\Projet-teste\obj\Debug\Projet-teste.exe
+C:\Users\sanfi\Desktop\Aulas que estou fazendo\C# COMPLETO Nelio\Seção 6\Exercicios\Projet-teste\Projet-teste\obj\Debug\Projet-teste.pdb

@@ -10,6 +10,9 @@ namespace Projet_teste
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ola mundo");
+            Console.WriteLine("Kinka é foda");
+            Console.ReadLine();
         }
     }
 }
